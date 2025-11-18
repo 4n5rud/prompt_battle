@@ -1,0 +1,17 @@
+# Server (Spring Boot)
+server/src/main/resources/application.yml
+server/build/
+server/out/
+
+# Client (React or whatever)
+client/node_modules/
+client/.next/
+client/dist/
+client/build/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
